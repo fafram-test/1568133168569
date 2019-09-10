@@ -1,0 +1,17 @@
+// ------------------------------------------------------------------
+// Transitive dependencies of this project determined from the
+// maven pom organized by organization.
+// ------------------------------------------------------------------
+
+Apache Karaf :: Deployer :: Wrap Non OSGi Jar
+
+
+From: 'The Apache Software Foundation' (http://www.apache.org/)
+  - Apache Felix Utils (http://felix.apache.org/org.apache.felix.utils/) org.apache.felix:org.apache.felix.utils:jar:1.10.4
+    License: Apache License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+  - Apache Karaf :: Util (http://www.apache.org/karaf/org.apache.karaf.util/) org.apache.karaf:org.apache.karaf.util:jar:2.4.0.redhat-630415
+    License: The Apache Software License, Version 2.0  (http://www.apache.org/licenses/LICENSE-2.0.txt)
+
+
+
+
